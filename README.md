@@ -4,7 +4,7 @@ Various implementations of the Gaussian Plume Dispersion Model
 Two Excel versions: 
   - Gaussian Plume Dispersion utilizes VBA to create better UI
   - E515 Gaussian Dispersion is more basic
-One R version but a Shiny App may be developed for best UI
+<br> One R version but a Shiny App may be developed for best UI
 
 
 ## Future
